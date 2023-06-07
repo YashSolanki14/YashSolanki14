@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m Software Enineeer at Persistent System
+- 👀 I’m Software Engineer at Persistent System
 - 🌱 I’m currently working with Zendesk 
 
 <!---
